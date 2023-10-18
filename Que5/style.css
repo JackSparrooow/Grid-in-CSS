@@ -1,0 +1,17 @@
+.container{
+    background-color: rgb(252, 21, 59);
+    padding: 20px;
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap: 20px;
+    justify-items: center;
+
+
+}
+.box{
+    background-color: rgb(118, 118, 239);
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    color: #fff;
+}

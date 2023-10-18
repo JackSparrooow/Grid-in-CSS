@@ -1,0 +1,3 @@
+The grid-auto-rows property in CSS is used to specify the size for the rows of implicitly generated grid containers. 
+
+

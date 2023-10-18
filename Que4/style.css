@@ -1,0 +1,33 @@
+.grid-container{
+    background-color: rgb(197, 226, 12);
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(6, 100px);
+    gap: 20px;
+}
+
+.grid-item{
+    background-color: black;
+    font-size: 40px;
+    text-align: center;
+    color: aliceblue;
+    
+}
+
+#grid1{
+    order: 3;
+
+}
+
+#grid2{
+    order: 6;
+    background-color: #ccc;
+
+}
+
+#grid4, #grid6, #grid8{
+    background-color: #ccc;
+}
+
+
+

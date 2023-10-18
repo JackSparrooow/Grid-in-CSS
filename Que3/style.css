@@ -1,0 +1,16 @@
+.main {
+    display: grid;
+    grid-template-areas: "a a";
+    grid-gap: 20px;
+    padding: 30px;
+    background-color: green;
+    grid-auto-rows: auto;
+    /* grid-auto-columns: 500px; */
+
+}
+.GFG {
+    text-align: center;
+    font-size: 35px;
+    background-color: white;
+    padding: 20px 0;
+}
